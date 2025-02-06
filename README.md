@@ -1,9 +1,9 @@
 **Portfolio**
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/mockup.png" />
+  <img alt="Demo" src="" />
 </div>
 <br/>
 <br/>
 
-Descibe myself and projects i have done for learning and fun purpose.
+About me , things I know and made for showcasing!
